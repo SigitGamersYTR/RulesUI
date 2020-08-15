@@ -1,0 +1,23 @@
+---
+ ______ __  ___ ___    ____  ____
+|  __  \  | |  |  |   / ___\/  __|
+|      /  |_|  |  |__/  ---/\--   \
+|__|\__\|______||____|\____|______/
+
+#################################################
+#Settings RulesUI Config.yml
+#################################################
+
+#Gunakan "§" untuk mewarnai Text
+#Gunakan "\n" untuk Lanjut Line
+
+#Form RulesUI Title
+Rules-Title: "§l§eRules§cUI"
+
+#Form RulesUI Info
+Rules-info: "you rules in Server"
+
+#Form RulesUI Kembali
+Kembali: " §l§cKembali\n§rTap to Exit"
+#
+...
