@@ -1,0 +1,11 @@
+name: RulesUI-master
+author: SigitGamersYTR
+version: 1.0.0 
+api: [3.0.0, 4.0.0]
+main: SigitGamersYTR\RulesUI
+
+commands:
+  rules:
+    usage: /rules
+    aliases: [rui]
+    description: "§o§bOpen the Rules in server"
